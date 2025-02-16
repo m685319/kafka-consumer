@@ -12,5 +12,4 @@ public class KafkaConsumerService {
         System.out.println("Получено сообщение: " + record.value());
     }
 
-
 }
